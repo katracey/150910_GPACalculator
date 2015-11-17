@@ -1,0 +1,12 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\150910_GPACalculator\150910_GPACalculator\bin\Debug\150910_GPACalculator.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\150910_GPACalculator\150910_GPACalculator\bin\Debug\150910_GPACalculator.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\150910_GPACalculator\150910_GPACalculator\bin\Debug\150910_GPACalculator.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\150910_GPACalculator\150910_GPACalculator\obj\Debug\150910_GPACalculator.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\150910_GPACalculator\150910_GPACalculator\obj\Debug\150910_GPACalculator.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\150910_GPACalculator\150910_GPACalculator\obj\Debug\150910_GPACalculator.csprojResolveAssemblyReference.cache
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Week 1 - Comp Thinking, Into to VS IDE, C# Libraries\150910_GPACalculator\150910_GPACalculator\bin\Debug\150910_GPACalculator.exe.config
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Week 1 - Comp Thinking, Into to VS IDE, C# Libraries\150910_GPACalculator\150910_GPACalculator\obj\Debug\150910_GPACalculator.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Week 1 - Comp Thinking, Into to VS IDE, C# Libraries\150910_GPACalculator\150910_GPACalculator\obj\Debug\150910_GPACalculator.pdb
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Week 1 - Comp Thinking, Into to VS IDE, C# Libraries\150910_GPACalculator\150910_GPACalculator\bin\Debug\150910_GPACalculator.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Week 1 - Comp Thinking, Into to VS IDE, C# Libraries\150910_GPACalculator\150910_GPACalculator\bin\Debug\150910_GPACalculator.pdb
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Week 1 - Comp Thinking, Into to VS IDE, C# Libraries\150910_GPACalculator\150910_GPACalculator\obj\Debug\150910_GPACalculator.csprojResolveAssemblyReference.cache
